@@ -30,6 +30,7 @@ namespace ExpenseManagerWPF.EMCore
                 if (chartDataContext[i].Key == key)
                     return i;
             return -1;
+            //Comment
         }
 
     }
